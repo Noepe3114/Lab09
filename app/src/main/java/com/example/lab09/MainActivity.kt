@@ -106,7 +106,6 @@ fun BarraInferior(navController: NavHostController) {
         )
     }
 }
-
 @Composable
 fun Contenido(
     pv: PaddingValues,
